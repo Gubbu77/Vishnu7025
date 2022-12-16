@@ -1,7 +1,5 @@
 
 
-**Vishnu7025/Vishnu7025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Vishnu V.S</h1>
 <h3 align="center">django developer</h3>
 
